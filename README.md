@@ -1,2 +1,2 @@
 # hello-world
-Read me text here
+Self-taught programmer learning github
